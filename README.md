@@ -1,8 +1,8 @@
- <h2> Hi there 👋 </h2>
+ <h2> Hi there 👋 I am Bishwas Shrestha</h2>
 
 - 🌱 I’m currently learning Nodejs and GMS2
 - 💬 Ask me about Bootstrap,PHP,JavaScript
-- 📫 How to reach me: b15hw45@gmail.com
+- 📫 How to reach me: b15hw45@gmail.com<br>
 -⚡ Fun fact: You can spell the word typewriter using the top line of letters on a computer’s keyboard !
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justbishwas&label=Profile%20views&color=0e75b6&style=flat" alt="justbishwas" /> </p>
