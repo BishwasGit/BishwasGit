@@ -8,8 +8,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justbishwas&label=Profile%20views&color=0e75b6&style=flat" alt="justbishwas" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://media.giphy.com/media/977YesTjNfQC7vQiph/giphy.gi" class="d-block w-100" alt="...">
-<a href="https://linktr.ee/justbishwas" text-size : 50px >All my socials</a>
+<img src="https://media.giphy.com/media/977YesTjNfQC7vQiph/giphy.gif">
+<a href="https://linktr.ee/justbishwas" >All my socials</a>
 
 
 
