@@ -13,7 +13,7 @@
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="..." class="d-block w-100" alt="...">
+      <iframe src="https://giphy.com/embed/977YesTjNfQC7vQiph" width="480" height="268" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a                      href="https://giphy.com/gifs/TOEIAnimationUK-dbz-dragon-ball-z-977YesTjNfQC7vQiph">via GIPHY</a></p>
     </div>
     <div class="carousel-item">
       <img src="..." class="d-block w-100" alt="...">
