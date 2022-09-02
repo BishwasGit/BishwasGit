@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <img src="https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif">
-<a style="background-color: crimson; color: #f1f1f1; font-weight: bold" href="https://linktr.ee/justbishwas">ALL MY SOCIALS</a>
+<a style="font-weight: bold" href="https://linktr.ee/justbishwas">ALL MY SOCIALS</a>
 
 
 
