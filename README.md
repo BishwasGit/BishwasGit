@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justbishwas&label=Profile%20views&color=0e75b6&style=flat" alt="justbishwas" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://media.giphy.com/media/977YesTjNfQC7vQiph/giphy.gif">
+<img src="http://newscult.com/13-instagram-posts-youre-guaranteed-to-see-everyday">
 <a href="https://linktr.ee/justbishwas" >All my socials</a>
 
 
