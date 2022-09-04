@@ -1,6 +1,6 @@
  <h2> Hi there 👋 </h2>
 
-- 🌱 I’m currently learning Nodejs and GMS2
+- 🌱 I’m currently learning Nodejs and Game Maker Language
 - 💬 Ask me about Bootstrap,PHP,JavaScript
 - 📫 How to reach me: b15hw45@gmail.com<br>
 -⚡ Fun fact: You can spell the word typewriter using the top line of letters on a computer’s keyboard !
