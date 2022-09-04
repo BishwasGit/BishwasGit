@@ -1,5 +1,5 @@
  <h2> Hi there 👋 </h2>
-<ul style="padding:15px;font-size:32px;">
+<ul>
 <li>🌱 I’m currently learning Nodejs and Game Maker Language</li>
 <li>💬 Ask me about Bootstrap,PHP,JavaScript</li>
 <li>📫 How to reach me: b15hw45@gmail.com</li>
@@ -18,9 +18,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=justbishwas&show_icons=true&locale=en&layout=compact" alt="justbishwas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justbishwas&show_icons=true&locale=en" alt="justbishwas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justbishwas&show_icons=true&locale=en&theme=tokyonight" alt="justbishwas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justbishwas&&theme=tokyonight" alt="justbishwas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justbishwas&" alt="justbishwas" /></p>
 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
