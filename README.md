@@ -1,5 +1,5 @@
  <h2> Hi there 👋 </h2>
-<ul>
+<ul style="padding:15px;font-size:32px;">
 <li>🌱 I’m currently learning Nodejs and Game Maker Language</li>
 <li>💬 Ask me about Bootstrap,PHP,JavaScript</li>
 <li>📫 How to reach me: b15hw45@gmail.com</li>
