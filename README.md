@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justbishwas&show_icons=true&locale=en" alt="justbishwas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justbishwas&" alt="justbishwas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justbishwas&&theme=tokyonight" alt="justbishwas" /></p>
 
 <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
