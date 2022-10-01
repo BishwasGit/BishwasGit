@@ -1,4 +1,4 @@
- <h2> Hi there 👋 </h2>
+<h2> Hi there 👋 </h2>
 <h2><ul>
 <li>🌱 I’m currently learning  Nodejs, React and Game Maker Language</li>
 <li>💬 Ask me about Bootstrap,PHP,JavaScript,MYSQL,REACT,GAME MAKER STUDIO </li>
