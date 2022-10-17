@@ -6,12 +6,20 @@
 <li>⚡ Fun fact: Illuminati is real ! △👁</li>
 <li><h2>Click --> <a href="https://www.linkedin.com/in/justbishwas/">Linkedin Profile</a></h2></li>
 </ul></h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=justbishwas&label=Profile%20views&color=0e75b6&style=flat" alt="justbishwas" /> </p>
 
+<div>
+<div class="row">
+<div class="col-6">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linktr.ee/justbishwas">
 <img src="https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif">
 </a>
+</div>
+<div class="col-6>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=justbishwas&label=Profile%20views&color=0e75b6&style=flat" alt="justbishwas" /> </p>
+</div>
+</div>
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
