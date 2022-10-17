@@ -1,9 +1,10 @@
-<h2> Hi there 👋 </h2>
+<center><h2> Hi there 👋 </h2></center>
 <h2><ul>
 <li>🌱 I’m currently learning  MERN Stack</li>
 <li>💬 Ask me about Bootstrap,PHP,JavaScript,MYSQL,REACT,GAME MAKER STUDIO </li>
 <li>📫 How to reach me: b15hw45@gmail.com</li>
 <li>⚡ Fun fact: You can spell the word typewriter using the top line of letters on a computer’s keyboard !</li>
+<li><h1>Click --> <a href="https://www.linkedin.com/in/justbishwas/">Linkedin Profile</a></h1></li>
 </ul></h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justbishwas&label=Profile%20views&color=0e75b6&style=flat" alt="justbishwas" /> </p>
 
