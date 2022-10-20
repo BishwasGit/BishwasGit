@@ -7,7 +7,6 @@
 <li><h3>Click --> <a href="https://www.linkedin.com/in/justbishwas/">Linkedin Profile</a></h3></li>
 </ul></h2>
 
-<div>
 <div class="row">
 <div class="col-6">
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +16,6 @@
 </div>
 <div class="col-6>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justbishwas&label=Profile%20views&color=0e75b6&style=flat" alt="justbishwas" /> </p>
-</div>
 </div>
 </div>
 
