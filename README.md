@@ -9,7 +9,7 @@
 
 <div class="row">
 <div class="col-6">
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Clik the gif below : </h3>
 <a href="https://linktr.ee/justbishwas">
 <img src="https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif">
 </a>
