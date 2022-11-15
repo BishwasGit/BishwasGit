@@ -1,7 +1,7 @@
 <h1 align="center"> Hola 👋 </h1>
 <h2 top="0"><ul>
 <li>🌱 I’m currently learning  MERN Stack</li>
-<li>💬 Ask me about Bootstrap,PHP,JavaScript,MYSQL,REACT,GAME MAKER STUDIO </li>
+<li>💬 Ask me about Bootstrap,PHP,JavaScript,MYSQL,NODE,GAME MAKER STUDIO </li>
 <li>📫 How to reach me: b15hw45@gmail.com</li>
 <li>⚡ Fun fact: Illuminati is real ! △👁</li>
 <li><h3>Click --> <a href="https://www.linkedin.com/in/justbishwas/">Linkedin Profile</a></h3></li>
