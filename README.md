@@ -18,19 +18,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JustBishwas&label=Profile%20views&color=0e75b6&style=flat" alt="justbishwas" /> </p>
 </div>
 </div>
-
-<p><picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=justbishwas&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=justbishwas&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=justbishwas&show_icons=true" />
-</picture>
- </p>
                                                                                                                                                  
 <h3>Familiar With:</h3>
 <div">                                                                                                                             
