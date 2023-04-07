@@ -1,5 +1,6 @@
-<h1 align="center"> Hola 👋</h1>
-## 💫 About Me: <br>
+<h1 align="center"> Hola 👋</h1><br>
+<hr>
+## 💫 About Me:
 🔭 I’m currently working as Web Developer<br>👯 I’m looking to collaborate on Game Development, Tester<br>🌱 I’m currently learning Laravel and React<br>💬 Ask me about Web Development , Web Application<br>⚡ Fun fact : The First Computer Mouse was Made of Wood.
 
 
