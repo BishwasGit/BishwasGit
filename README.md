@@ -1,5 +1,4 @@
-<h1 align="center"> Hola 👋 M https://badgen.net/badge/Bishwas/Shrestha/red?icon=badgen
-</h1>
+<h1 align="center"> Hola 👋</h1>
 <h2 top="0"><ul>
 <li>🌱 I’m currently learning  MERN Stack</li>
 <li>💬 Ask me about Bootstrap,PHP,JavaScript,MYSQL,NODE,GAME MAKER STUDIO 2</li>
