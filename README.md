@@ -30,9 +30,6 @@
 </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustBishwas&layout=compact&langs_count=8&theme=dark" />
-</div>
   
 
                                                                                                                                                  
