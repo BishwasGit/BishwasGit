@@ -1,8 +1,8 @@
+<div>
+  <div>
 <h1 align="center"> Hola 👋</h1><br>
 <h1>💫 About Me: </h1><br/>
 🔭 I’m currently working as Web Developer<br>👯 I’m looking to collaborate on Game Development, Tester<br>🌱 I’m currently learning Laravel and React<br>💬 Ask me about Web Development , Web Application<br>⚡ Fun fact : The First Computer Mouse was Made of Wood.
-
-![GitHub Gif](https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N) 
@@ -31,7 +31,14 @@
 </a>
 </div>
 
+ </div>
   
+  <div>
+  
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
+  
+  </div>
+</div>
 
                                                                                                                                                  
 
