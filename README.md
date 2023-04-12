@@ -1,5 +1,3 @@
-<div>
-  <div>
 <h1 align="center"> Hola 👋, I'm Bishwas</h1><br>
 <h1>💫 About Me: </h1><br/>
 🔭 I’m currently working as Web Developer<br>👯 I’m looking to collaborate on Game Development, Tester<br>🌱 I’m currently learning Laravel and React<br>💬 Ask me about Web Development , Web Application<br>⚡ Fun fact : The First Computer Mouse was Made of Wood.
@@ -23,18 +21,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Justbishwas&icon=0&color=5)](https://visitcount.itsvg.in)
 
+<div>
 <h3 align="left">All my socials 👇</h3>
 <a href="https://linktr.ee/justbishwas">
 <img src="https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif">
 </a>
-    
-  </div>
-  <div>
+ <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
+ </div>
   
-  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
-  
-  </div>
-</div>
 
                                                                                                                                                  
 
