@@ -17,20 +17,20 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Justbishwas&icon=0&color=5)](https://visitcount.itsvg.in)
 
+![](https://media.tenor.com/zB1m2Ww8uKUAAAAC/rasengan-naruto.gif)![](https://media.tenor.com/jplxEiVfX1UAAAAC/sasuke-naruto.gif)
 <div>
+ 
 <h3 align="left">All my socials 👇</h3>
-<a href="https://linktr.ee/justbishwas">
-<img src="https://media.giphy.com/media/pJjKzRqY9HwME/giphy.gif">
-</a>
- <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif">
- </div>
+ <h1><a href="https://linktr.ee/justbishwas">Connect with me 🔗</a></h1>
+</div>
+
   
 
-                                                                                                                                                 
+                          
+                    
 
 
 
