@@ -19,8 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=Justbishwas&icon=0&color=5)](https://visitcount.itsvg.in)
-
-![](https://media.tenor.com/zB1m2Ww8uKUAAAAC/rasengan-naruto.gif)![](https://media.tenor.com/jplxEiVfX1UAAAAC/sasuke-naruto.gif)
 <div>
  
 <h3 align="left">All my socials 👇</h3>
