@@ -3,7 +3,7 @@
 🔭 I’m currently working as Web Developer<br>👯 I’m looking to collaborate on Game Development, Tester, MERN Stack, Laravel Developer, Wordpress <br>🌱 I’m currently learning Laravel and MERN Stack<br>💬 Ask me about Web Development , Web Application<br>⚡ Fun fact : The First Computer Mouse was Made of Wood.<br>🌐 www.bishwas-shrestha.com.np
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N) <br>
 <img src="snapcode.png" height="200" width="200">
 
 # 💻 Tech Stack:
