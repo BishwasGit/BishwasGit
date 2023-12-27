@@ -19,9 +19,6 @@
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=5)](https://visitcount.itsvg.in)
 <div>
             
-<h3 align="left">All my socials 👇</h3>
- <h1><a href="https://linktr.ee/BishwasGit">Connect with me 🔗</a></h1>
-</div>
 
 
                           
