@@ -12,7 +12,7 @@ Email : workmail.bishwas@gmail.com
 # Programming languages analytics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&size_weight=0.5&count_weight=0.5&langs_count=8&theme=radical)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=radical)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=radical)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=radical&hide_rank=true)<br>
 ![Bishwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=radical)<br>
 <img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg">
 
