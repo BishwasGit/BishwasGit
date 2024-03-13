@@ -11,12 +11,12 @@ Email : workmail.bishwas@gmail.com
 
 # Programming languages analytics
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=06142C)<br>
-[!Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut)<br>
-![Bishwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut)<br>
+![Bishwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact)
 <img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg">
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BishwasGit&theme=discord&no-frame=false&no-bg=false&margin-w=4&layout=compact)
+![](https://github-profile-trophy.vercel.app/?username=BishwasGit&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
