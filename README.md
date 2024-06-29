@@ -95,15 +95,11 @@ main();
     <th>Github Trophies</th>
     <td><img src="https://github-profile-trophy.vercel.app/?username=BishwasGit&theme=discord&no-frame=false&no-bg=false&margin-w=4"</td>
   </tr>
+  <tr>
+    <th>Quote of the day</th>
+    <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></td>
+  </tr>
 </table>
-
----
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BishwasGit&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
----
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=5)](https://visitcount.itsvg.in)
