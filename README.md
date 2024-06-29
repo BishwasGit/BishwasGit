@@ -1,7 +1,7 @@
 <h3> Hi 👋, I'm Bishwas Shrestha</h3>
 <br>
 <table>
-  <h5 align="center">💫 About Me: </h5><br>
+  <h4 align="left">💫 About Me</h4><br>
   <tr>
     <th>
             <p>🔭 I’m currently working as both Front-end and Back-end Web Developer</p>
