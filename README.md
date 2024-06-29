@@ -74,9 +74,21 @@ main();
 
 ---
 # Programming languages analytics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true)<br>
-![Bishwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=merko)<br>
+<table>
+  <tr>
+    <th>Most Used Langs</th>
+    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight)</td>
+  </tr>
+  <tr>
+    <th>Github Stats</th>
+    <td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true)</td>
+  </tr>
+  <tr>
+    <th>Waka time</th>
+    <td>![Bishwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=merko)</td>
+  </tr>
+</table>
+
 <img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg">
 
 ---
