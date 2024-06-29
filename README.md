@@ -14,10 +14,8 @@
     </th>
   </tr>
 </table>           
-<hr>
-            
+
 ```javascript
-    
     function main() {
     const name = 'Bishwas Shrestha';
     var acknowledgements = 'Web Developer';
@@ -34,7 +32,6 @@
     }
     }
 ```
----
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N)
 Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)
@@ -74,6 +71,7 @@ Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+---
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=5)](https://visitcount.itsvg.in)
 ---
 ## Few more projects on GitLab
