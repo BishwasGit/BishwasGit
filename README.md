@@ -81,11 +81,11 @@ main();
   </tr>
   <tr>
     <th>Github Stats</th>
-    <td><img src="(https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true"></td>
   </tr>
   <tr>
     <th>Waka time</th>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=merko" width="300"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=merko"></td>
   </tr>
 </table>
 
