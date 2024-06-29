@@ -7,8 +7,7 @@
             💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs<br>
             ⚡ Fun fact: The First Computer Mouse was Made of Wood.<br>
             🌐 https://www.bishwas-shrestha.com.np
-
-  <br>
+<hr>
             
 ```javascript
     
