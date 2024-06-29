@@ -29,8 +29,7 @@
             if (!alive) return "Time to rest";
         });
     }
-}
-
+    }```
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N) <br>
 Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)
