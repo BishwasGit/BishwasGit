@@ -17,8 +17,7 @@
   </tr>
 </table>
 <hr>
-
-## I'm a Web Developer based in Kathmandu, Nepal, working at O2D - On Demand Development.
+<img align="right" width="300" src="https://media.tenor.com/pT_eK7L76OEAAAAC/coding-computer-coding.gif" />
 
 ```javascript
   function main() {
