@@ -14,31 +14,35 @@
     <th>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNsaDJtdjR1d2Uza3pmdW1uMzN6c3kxNWNjN2xvdnAzY2kydHNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDPxorBbvpB1Pby/giphy.gif">
     </th>
+    <th>
+      ```php
+        <?php
+        function main() {
+            $name = 'Bishwas Shrestha';
+            $acknowledgements = 'Web Developer';
+            $location = 'Kathmandu, Nepal';
+            $company = 'O2D - On Demand Development';
+            $routine = ['learn', 'code', 'eat', 'sleep'];
+            $alive = true;
+        
+            while ($alive) {
+                foreach ($routine as $action) {
+                    echo $action;
+                    if (!$alive) {
+                        return "Time to rest";
+                    }
+                }
+            }
+        }
+        ?>
+    ```
+    
+    </th>
   </tr>
 </table>
 <hr>
 
-```
-<?php
-function main() {
-    $name = 'Bishwas Shrestha';
-    $acknowledgements = 'Web Developer';
-    $location = 'Kathmandu, Nepal';
-    $company = 'O2D - On Demand Development';
-    $routine = ['learn', 'code', 'eat', 'sleep'];
-    $alive = true;
 
-    while ($alive) {
-        foreach ($routine as $action) {
-            echo $action;
-            if (!$alive) {
-                return "Time to rest";
-            }
-        }
-    }
-}
-?>
-```
 
 
 ```javascript
