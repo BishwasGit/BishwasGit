@@ -18,9 +18,7 @@
 </table>
 <hr>
 
-
-
-```php
+```
 <?php
 function main() {
     $name = 'Bishwas Shrestha';
@@ -41,8 +39,6 @@ function main() {
 }
 ?>
 ```
-
-
 
 
 ```javascript
