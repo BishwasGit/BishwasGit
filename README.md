@@ -77,11 +77,11 @@ main();
 <table>
   <tr>
     <th>Most Used Langs</th>
-    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight)</td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight"></td>
   </tr>
   <tr>
     <th>Github Stats</th>
-    <td>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true)</td>
+    <td><img src="(https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true"></td>
   </tr>
   <tr>
     <th>Waka time</th>
