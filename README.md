@@ -3,7 +3,7 @@
 
 <table>
     <tr>
-        <th>
+        <th style="text-align:left">
             
             ```javascript
             function main() {
@@ -23,7 +23,7 @@
             }
             ```
 </th>
-        <th>
+        <th style="text-align:right">
             <h1>💫 About Me: </h1><br>
             🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
             👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native<br>
