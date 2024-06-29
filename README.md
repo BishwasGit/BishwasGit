@@ -99,13 +99,14 @@ main();
     <th>Quote of the day</th>
     <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></td>
   </tr>
+  <tr>
+    <th>Gitlab</th>
+    <td>[https://gitlab.com/workmail.bishwas](https://gitlab.com/workmail.bishwas)</td>
+  </tr>
 </table>
 
----
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=5)](https://visitcount.itsvg.in)
 
----
-## Few more projects on GitLab
-[https://gitlab.com/workmail.bishwas](https://gitlab.com/workmail.bishwas)
+
 
 
