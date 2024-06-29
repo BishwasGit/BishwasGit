@@ -13,7 +13,7 @@
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzIyaXJwem16aXZ1MHFpMnZtam1oaXl5ZWY1Z2ZtMHpqaW9oamdmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcB7dYAIBjMG2CQ/giphy.gif">
     </th>
   </tr>
-</table>
+
                
 <hr>
             
@@ -37,9 +37,10 @@
 ```
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N)  
-Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)
-
+<tr>
+<td>[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N)</td>
+<td>Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)</td>
+</tr>
 
 ## Few more projects on GitLab: [https://gitlab.com/workmail.bishwas](https://gitlab.com/workmail.bishwas)
 
@@ -80,3 +81,5 @@ Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=5)](https://visitcount.itsvg.in)
+
+</table>
