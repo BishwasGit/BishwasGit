@@ -57,6 +57,28 @@
   }
 ```
 
+```php
+        <?php
+        function main() {
+            $name = 'Bishwas Shrestha';
+            $acknowledgements = 'Web Developer';
+            $location = 'Kathmandu, Nepal';
+            $company = 'O2D - On Demand Development';
+            $routine = ['learn', 'code', 'eat', 'sleep'];
+            $alive = true;
+        
+            while ($alive) {
+                foreach ($routine as $action) {
+                    echo $action;
+                    if (!$alive) {
+                        return "Time to rest";
+                    }
+                }
+            }
+        }
+        ?>
+```
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bishwasshrestha)
