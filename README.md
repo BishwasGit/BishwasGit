@@ -85,7 +85,7 @@ main();
   </tr>
   <tr>
     <th>Waka time</th>
-    <td>![Bishwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=merko)</td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=merko" width="300"></td>
   </tr>
 </table>
 
