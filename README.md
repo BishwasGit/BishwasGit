@@ -1,6 +1,6 @@
 <h1 style="text-align:center"> Hi 👋, I'm Bishwas Shrestha</h1>
 <br>
-<table>
+<table style="padding:10px;text-align:left;">
   <tr>
     <th><h1>💫 About Me: </h1><br>
             🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
