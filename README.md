@@ -1,12 +1,20 @@
 <h1 style="text-align:center"> Hi 👋, I'm Bishwas Shrestha</h1>
 <br>
-               <h1>💫 About Me: </h1><br>
+<table>
+  <tr>
+    <th><h1>💫 About Me: </h1><br>
             🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
             👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native<br>
             🌱 I’m currently learning MERN and ExpoApp<br>
             💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs<br>
             ⚡ Fun fact: The First Computer Mouse was Made of Wood.<br>
-            🌐 https://www.bishwas-shrestha.com.np
+            🌐 https://www.bishwas-shrestha.com.np</th>
+    <th>
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzIyaXJwem16aXZ1MHFpMnZtam1oaXl5ZWY1Z2ZtMHpqaW9oamdmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcB7dYAIBjMG2CQ/giphy.gif">
+    </th>
+  </tr>
+</table>
+               
 <hr>
             
 ```javascript
@@ -27,7 +35,6 @@
     }
     }
 ```
-![Matrix GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzIyaXJwem16aXZ1MHFpMnZtam1oaXl5ZWY1Z2ZtMHpqaW9oamdmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcB7dYAIBjMG2CQ/giphy.gif)
 
 ---
 
