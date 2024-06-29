@@ -4,12 +4,15 @@
   <h1>💫 About Me: </h1><br>
   <tr>
     <th>
-            🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
-            👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native<br>
-            🌱 I’m currently learning MERN and ExpoApp<br>
-            💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs<br>
-            ⚡ Fun fact: The First Computer Mouse was Made of Wood.<br>
-            🌐 https://www.bishwas-shrestha.com.np</th>
+      <ul>
+            <li>🔭 I’m currently working as both Front-end and Back-end Web Developer</li>
+            <li>👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native</li>
+            <li>🌱 I’m currently learning MERN and ExpoApp</li>
+            <li>💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs</li>
+            <li>⚡ Fun fact: The First Computer Mouse was Made of Wood</li>
+            <li>🌐 https://www.bishwas-shrestha.com.np / workmail.bishwas@gmail.com</li>
+      </ul>
+    </th>
     <th>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzIyaXJwem16aXZ1MHFpMnZtam1oaXl5ZWY1Z2ZtMHpqaW9oamdmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcB7dYAIBjMG2CQ/giphy.gif">
     </th>
