@@ -1,6 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Bishwas Shrestha</h1>
-<br>
-
+<hrr>
 <table>
     <tr>
         <th style="text-align:left">
@@ -13,9 +12,9 @@
             🌐 [www.bishwas-shrestha.com.np](http://www.bishwas-shrestha.com.np)
 </th>
 <th style="text-align:right">
-    
-    ```javascript     
-    function main() {
+   <pre>
+   
+       function main() {
                 const name = 'Bishwas Shrestha';
                 var acknowledgements = 'Web Developer';
                 var location = 'Kathmandu, Nepal';
@@ -29,9 +28,9 @@
                         if (!alive) return "Time to rest";
                     });
                 }
-            }     
-    ```
-
+            }   
+            
+</pre>
 </th>
 </tr>
 </table>
