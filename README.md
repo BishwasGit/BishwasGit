@@ -1,5 +1,5 @@
 <h3> Hi 👋, I'm Bishwas Shrestha</h3>
-<br>
+<hr>
 <table>
   <h4 align="left">💫 About Me</h4><br>
   <tr>
@@ -41,12 +41,12 @@ function main() {
 main();
 
 ```
-
+<hr>
 <h4>🌐 Socials</h4>  
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bishwasshrestha)
-
+<hr>
 <h4>💻 Tech Stats</h4>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -71,7 +71,7 @@ main();
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
+<hr>
 <h4>Programming languages analytics</h4>
 
 <table>
