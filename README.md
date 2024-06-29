@@ -1,8 +1,5 @@
 <h1 style="text-align:center"> Hi 👋, I'm Bishwas Shrestha</h1>
 <hr>
-<table>
-<tr>
-<td style="text-align:left">
                <h1>💫 About Me: </h1><br>
             🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
             👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native<br>
@@ -10,9 +7,7 @@
             💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs<br>
             ⚡ Fun fact: The First Computer Mouse was Made of Wood.<br>
             🌐 [www.bishwas-shrestha.com.np](http://www.bishwas-shrestha.com.np)
-</td>
-</tr>
-</table>
+            
 ```javascript
     
     function main() {
@@ -29,7 +24,8 @@
             if (!alive) return "Time to rest";
         });
     }
-    }```
+    }
+```
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N) <br>
 Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)
