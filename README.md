@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-```javascript
+```js
       function main() {
       const name = 'Bishwas Shrestha';
       var acknowledgements = 'Web Developer';
@@ -25,7 +25,6 @@
       var company = 'O2D - On Demand Development';
       var routine = [learn, code, eat, sleep];
       const alive = true;
-  
       while (alive) {
           $.each(actions, function(index, routine) {
               action();
