@@ -4,6 +4,7 @@
 <table>
     <tr>
         <th>
+            
             ```javascript
             function main() {
                 const name = 'Bishwas Shrestha';
@@ -21,7 +22,7 @@
                 }
             }
             ```
-        </th>
+</th>
         <th>
             <h1>💫 About Me: </h1><br>
             🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
