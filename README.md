@@ -11,11 +11,10 @@
             ⚡ Fun fact: The First Computer Mouse was Made of Wood.<br>
             🌐 [www.bishwas-shrestha.com.np](http://www.bishwas-shrestha.com.np)
 </td>
-</tr>
-<tr>
-  <td>
+<td>
     ```javascript
-  function main() {
+      
+    function main() {
       const name = 'Bishwas Shrestha';
       var acknowledgements = 'Web Developer';
       var location = 'Kathmandu, Nepal';
@@ -29,9 +28,9 @@
               if (!alive) return "Time to rest";
           });
       }
- }
-```
-  </td>
+     }
+    ```
+</td>
 </tr>
 </table>
 
