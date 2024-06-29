@@ -1,17 +1,15 @@
-<h1 style="text-align:center"> Hi 👋, I'm Bishwas Shrestha</h1>
+<h1> Hi 👋, I'm Bishwas Shrestha</h1>
 <br>
-<table style="padding:10px;text-align:justify;" align="left">
+<table align="left">
   <h1>💫 About Me: </h1><br>
   <tr>
     <th>
-      <ul>
-            <li>🔭 I’m currently working as both Front-end and Back-end Web Developer</li>
-            <li>👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native</li>
-            <li>🌱 I’m currently learning MERN and ExpoApp</li>
-            <li>💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs</li>
-            <li>⚡ Fun fact: The First Computer Mouse was Made of Wood</li>
-            <li>🌐 https://www.bishwas-shrestha.com.np / workmail.bishwas@gmail.com</li>
-      </ul>
+            <p>🔭 I’m currently working as both Front-end and Back-end Web Developer</p>
+            <p>👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native</p>
+            <p>🌱 I’m currently learning MERN and ExpoApp</p>
+            <p>💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs</p>
+            <p>⚡ Fun fact: The First Computer Mouse was Made of Wood</p>
+            <p>🌐 https://www.bishwas-shrestha.com.np / workmail.bishwas@gmail.com</p>
     </th>
     <th>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzIyaXJwem16aXZ1MHFpMnZtam1oaXl5ZWY1Z2ZtMHpqaW9oamdmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcB7dYAIBjMG2CQ/giphy.gif">
