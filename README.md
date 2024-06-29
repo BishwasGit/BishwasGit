@@ -11,7 +11,8 @@
             ⚡ Fun fact: The First Computer Mouse was Made of Wood.<br>
             🌐 [www.bishwas-shrestha.com.np](http://www.bishwas-shrestha.com.np)
 </td>
-<td>
+</tr>
+</table>
 ```javascript
     
     function main() {
@@ -29,10 +30,6 @@
         });
     }
 }
-</td>
-</tr>
-</table>
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N) <br>
