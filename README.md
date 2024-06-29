@@ -101,11 +101,11 @@ main();
   </tr>
   <tr>
     <th>Gitlab</th>
-    <td>[https://gitlab.com/workmail.bishwas](https://gitlab.com/workmail.bishwas)</td>
+    <td>https://gitlab.com/workmail.bishwas</td>
   </tr>
 </table>
 
-[![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)](https://visitcount.itsvg.in)
 
 
 
