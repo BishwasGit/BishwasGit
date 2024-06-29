@@ -1,4 +1,21 @@
 <h1 align="center"> Hi 👋, I'm Bishwas Shrestha</h1><br>
+```rust
+fn main() {
+    const name = 'Bishwas Shrestha';
+    var acknowledgements = 'Web Developer';
+
+    var location = 'Kathmandu, Nepal';
+    var company = 'O2D - On Demand Development';
+
+    while(alive)
+    {
+    learn();
+    code();
+    eat();
+    Sleep();
+    }
+}
+```
 <h1>💫 About Me: </h1><br>
 🔭 I’m currently working as both Front-end and Back-end Web Developer<br>👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native <br>🌱 I’m currently learning MERN and ExpoApp <br>💬 Ask me about Web Development , Web Application, Web Designing, Responsive Designs<br>⚡ Fun fact : The First Computer Mouse was Made of Wood.<br>🌐 www.bishwas-shrestha.com.np
 
