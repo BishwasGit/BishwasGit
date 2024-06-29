@@ -27,8 +27,7 @@
     }
     }
 ```
-![GIF](https://media.giphy.com/media/l41lOTsQsGkNY0uwY/giphy.gif)
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FwcjQwaW03N2dzMzBlOHhsbTdnd2dmdXF2aXM2bGZjZXZjdzFiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.webp">
+![Matrix GIF](https://media.giphy.com/media/26BRFkhl7hTDh7J3S/giphy.gif)
 
 ---
 
