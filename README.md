@@ -12,11 +12,9 @@
             🌐 [www.bishwas-shrestha.com.np](http://www.bishwas-shrestha.com.np)
 </td>
 </tr>
-</table>
-
-## Code Snippet:
-
-```javascript
+<tr>
+  <td>
+    ```javascript
   function main() {
       const name = 'Bishwas Shrestha';
       var acknowledgements = 'Web Developer';
@@ -33,6 +31,11 @@
       }
  }
 ```
+  </td>
+</tr>
+</table>
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N) <br>
 Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)
