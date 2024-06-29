@@ -6,7 +6,9 @@
             🌱 I’m currently learning MERN and ExpoApp<br>
             💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs<br>
             ⚡ Fun fact: The First Computer Mouse was Made of Wood.<br>
-            🌐 [www.bishwas-shrestha.com.np](http://www.bishwas-shrestha.com.np)
+            🌐 https://www.bishwas-shrestha.com.np
+
+  <hr>
             
 ```javascript
     
