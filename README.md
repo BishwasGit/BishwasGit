@@ -1,8 +1,9 @@
 <h1 style="text-align:center"> Hi 👋, I'm Bishwas Shrestha</h1>
 <br>
 <table style="padding:10px;text-align:justify;" align="left">
+  <h1>💫 About Me: </h1><br>
   <tr>
-    <th><h1>💫 About Me: </h1><br>
+    <th>
             🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
             👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native<br>
             🌱 I’m currently learning MERN and ExpoApp<br>
@@ -34,7 +35,7 @@
 ```
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N)
-Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bishwasshrestha)
 ---
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
