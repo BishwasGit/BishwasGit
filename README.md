@@ -33,7 +33,7 @@ function main() {
 
     while (alive) {
         $.each(routine, function(index, activity) {
-            action(activity); =
+            action(activity);
             if (!alive) return "Time to rest";
         });
     }
