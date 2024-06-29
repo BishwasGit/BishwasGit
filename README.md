@@ -91,6 +91,10 @@ main();
     <th>Total Time Spent Coding Since 2024</th>
     <td><img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg"></td>
   </tr>
+  <tr>
+    <th>Github Trophies</th>
+    <td><img src="https://github-profile-trophy.vercel.app/?username=BishwasGit&theme=discord&no-frame=false&no-bg=false&margin-w=4"</td>
+  </tr>
 </table>
 
 ---
