@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-```js
+```ruby
       function main() {
       const name = 'Bishwas Shrestha';
       var acknowledgements = 'Web Developer';
