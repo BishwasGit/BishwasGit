@@ -20,8 +20,8 @@
 <img align="right" width="300" src="https://media1.tenor.com/m/6OdlF1j_EDIAAAAC/dark-brandon.gif" />
 
 ```javascript
-function action(routine) {
-    console.log('Performing action:', routine);
+function action(activity) {
+    console.log('Performing action:', activity);
 }
 function main() {
     const name = 'Bishwas Shrestha';
