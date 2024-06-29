@@ -4,9 +4,18 @@
 <table>
     <tr>
         <th style="text-align:left">
-            
-            ```javascript
-            function main() {
+               <h1>💫 About Me: </h1><br>
+            🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
+            👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native<br>
+            🌱 I’m currently learning MERN and ExpoApp<br>
+            💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs<br>
+            ⚡ Fun fact: The First Computer Mouse was Made of Wood.<br>
+            🌐 [www.bishwas-shrestha.com.np](http://www.bishwas-shrestha.com.np)
+</th>
+<th style="text-align:right">
+    
+    ```javascript     
+    function main() {
                 const name = 'Bishwas Shrestha';
                 var acknowledgements = 'Web Developer';
                 var location = 'Kathmandu, Nepal';
@@ -20,19 +29,11 @@
                         if (!alive) return "Time to rest";
                     });
                 }
-            }
-            ```
+            }     
+    ```
+
 </th>
-        <th style="text-align:right">
-            <h1>💫 About Me: </h1><br>
-            🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
-            👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native<br>
-            🌱 I’m currently learning MERN and ExpoApp<br>
-            💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs<br>
-            ⚡ Fun fact: The First Computer Mouse was Made of Wood.<br>
-            🌐 [www.bishwas-shrestha.com.np](http://www.bishwas-shrestha.com.np)
-        </th>
-    </tr>
+</tr>
 </table>
 
 ## 🌐 Socials:
