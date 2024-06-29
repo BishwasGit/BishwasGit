@@ -27,12 +27,14 @@
     }
     }
 ```
-<hr>
-<img src="https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif">
-<hr>
+![GIF](https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif)
+
+---
+
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N) <br>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N)  
 Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)
+
 
 ## Few more projects on GitLab: [https://gitlab.com/workmail.bishwas](https://gitlab.com/workmail.bishwas)
 
