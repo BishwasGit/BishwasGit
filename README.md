@@ -17,29 +17,7 @@
   </tr>
 </table>
 <hr>
-##code snippet
-
-```php
-        <?php
-        function main() {
-            $name = 'Bishwas Shrestha';
-            $acknowledgements = 'Web Developer';
-            $location = 'Kathmandu, Nepal';
-            $company = 'O2D - On Demand Development';
-            $routine = ['learn', 'code', 'eat', 'sleep'];
-            $alive = true;
-        
-            while ($alive) {
-                foreach ($routine as $action) {
-                    echo $action;
-                    if (!$alive) {
-                        return "Time to rest";
-                    }
-                }
-            }
-        }
-        ?>
-```
+#I'm a Web Developer based in Kathmandu, Nepal, working at O2D - On Demand Development.
 
 ```javascript
   function main() {
