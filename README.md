@@ -27,7 +27,8 @@
     }
     }
 ```
-![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FwcjQwaW03N2dzMzBlOHhsbTdnd2dmdXF2aXM2bGZjZXZjdzFiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif)
+![GIF]([https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FwcjQwaW03N2dzMzBlOHhsbTdnd2dmdXF2aXM2bGZjZXZjdzFiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy-downsized-large.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FwcjQwaW03N2dzMzBlOHhsbTdnd2dmdXF2aXM2bGZjZXZjdzFiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.webp))
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2FwcjQwaW03N2dzMzBlOHhsbTdnd2dmdXF2aXM2bGZjZXZjdzFiayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4H3Ii5eLChYul9p7NL/giphy.webp">
 
 ---
 
