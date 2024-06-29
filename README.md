@@ -17,6 +17,7 @@
   </tr>
 </table>
 
+
 ```javascript
       function main() {
       const name = 'Bishwas Shrestha';
@@ -32,14 +33,8 @@
           });
       }
     }
-
 ```
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
 
 ```php
 <?php
