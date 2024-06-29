@@ -1,25 +1,33 @@
 <h1 align="center"> Hi 👋, I'm Bishwas Shrestha</h1><br>
-
-    function main()
-        {
-    const name = 'Bishwas Shrestha';
-    var acknowledgements = 'Web Developer';
-
-    var location = 'Kathmandu, Nepal';
-    var company = 'O2D - On Demand Development';
-    
-    var routine = [learn, code, eat, sleep];
-    const alive = true; 
-    
-    while (alive) {
-        $.each(actions, function(index, routine) {
-            action();
-            if (!alive) return "Time to rest"; 
-        });
-    }
-    
-<h1>💫 About Me: </h1><br>
-🔭 I’m currently working as both Front-end and Back-end Web Developer<br>👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native <br>🌱 I’m currently learning MERN and ExpoApp <br>💬 Ask me about Web Development , Web Application, Web Designing, Responsive Designs<br>⚡ Fun fact : The First Computer Mouse was Made of Wood.<br>🌐 www.bishwas-shrestha.com.np
+<table>
+    <tr>
+        <th>
+            
+            function main()
+            
+                {    
+                    const name = 'Bishwas Shrestha';
+                    var acknowledgements = 'Web Developer';
+            
+                    var location = 'Kathmandu, Nepal';
+                    var company = 'O2D - On Demand Development';
+            
+            var routine = [learn, code, eat, sleep];
+            const alive = true; 
+            
+            while (alive) {
+                $.each(actions, function(index, routine) {
+                    action();
+                    if (!alive) return "Time to rest"; 
+                });
+            };
+        </th>
+        <th>
+        <h1>💫 About Me: </h1><br>
+        🔭 I’m currently working as both Front-end and Back-end Web Developer<br>👯 I’m looking to collaborate on Game Development, MERN, Laravel, Wordpress, React-Native <br>🌱 I’m currently learning MERN and ExpoApp <br>💬 Ask me about Web Development , Web Application, Web Designing, Responsive Designs<br>⚡ Fun fact : The First Computer Mouse was Made of Wood.<br>🌐 www.bishwas-shrestha.com.np
+        </th>
+    </tr>
+</table>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N) <br>
