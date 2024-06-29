@@ -1,5 +1,5 @@
-<h1 align="center"> Hi 👋, I'm Bishwas Shrestha</h1>
-<hrr>
+<h1 style="text-align:center"> Hi 👋, I'm Bishwas Shrestha</h1>
+<hr>
 <table>
     <tr>
         <th style="text-align:left">
