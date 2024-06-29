@@ -20,20 +20,26 @@
 <img align="right" width="300" src="https://media1.tenor.com/m/6OdlF1j_EDIAAAAC/dark-brandon.gif" />
 
 ```javascript
-  function main() {
+function action(routine) {
+    console.log('Performing action:', routine);
+}
+function main() {
     const name = 'Bishwas Shrestha';
     var acknowledgements = 'Web Developer';
     var location = 'Kathmandu, Nepal';
     var company = 'O2D - On Demand Development';
-    var routine = [learn, code, eat, sleep];
+    var routine = ['learn', 'code', 'eat', 'sleep'];
     const alive = true;
-      while (alive) {
-        $.each(actions, function(index, routine) {
-        action();
-        if (!alive) return "Time to rest";
-      });
+
+    while (alive) {
+        $.each(routine, function(index, activity) {
+            action(activity); =
+            if (!alive) return "Time to rest";
+        });
     }
-  }
+}
+main();
+
 ```
 
 
