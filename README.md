@@ -17,7 +17,7 @@
   </tr>
 </table>
 <hr>
-<img align="right" width="300" src="https://media1.tenor.com/m/6OdlF1j_EDIAAAAC/dark-brandon.gif" />
+<img align="left" width="300" src="https://media1.tenor.com/m/6OdlF1j_EDIAAAAC/dark-brandon.gif" />
 
 ```javascript
   function main() {
