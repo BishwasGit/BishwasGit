@@ -16,7 +16,6 @@
     </th>
   </tr>
 </table>
-
 ```javascript
     function main() {
     const name = 'Bishwas Shrestha';
