@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Bishwas Shrestha</h1><br>
-```rust
+```
 fn main() {
     const name = 'Bishwas Shrestha';
     var acknowledgements = 'Web Developer';
