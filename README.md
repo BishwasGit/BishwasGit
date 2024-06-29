@@ -34,9 +34,11 @@
     }
     }
 ```
+---
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N)
 Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)
+---
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -60,16 +62,20 @@ Email: [workmail.bishwas@gmail.com](mailto:workmail.bishwas@gmail.com)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+---
 # Programming languages analytics
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight)<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true)<br>
 ![Bishwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=merko)<br>
 <img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg">
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BishwasGit&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=5)](https://visitcount.itsvg.in)
+---
 ## Few more projects on GitLab
 [https://gitlab.com/workmail.bishwas](https://gitlab.com/workmail.bishwas)
 
