@@ -87,11 +87,11 @@ main();
     <th>Waka time</th>
     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=merko"></td>
   </tr>
+  <tr>
+    <th>Total Time Spent Coding Since 2024</th>
+    <td><img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg"></td>
+  </tr>
 </table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight)
-![Bishwas's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=merko)<br>
-<img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg">
 
 ---
 ## 🏆 GitHub Trophies
