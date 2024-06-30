@@ -106,7 +106,7 @@ main();
   </tr>
 </table>
 
-<i align="right">Always keep it simple 😉</i>
+<i align="right">Always keep it simple </i>😉
 
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)](https://visitcount.itsvg.in)
 
