@@ -10,6 +10,7 @@
             <p>💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs</p>
             <p>⚡ Fun fact: The First Computer Mouse was Made of Wood</p>
             <p>🌐 https://www.bishwas-shrestha.com.np / workmail.bishwas@gmail.com</p>
+            <p>Kathmadnu, 🇳🇵</p>
     </th>
     <th>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNsaDJtdjR1d2Uza3pmdW1uMzN6c3kxNWNjN2xvdnAzY2kydHNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDPxorBbvpB1Pby/giphy.gif">
@@ -104,7 +105,8 @@ main();
     <td>https://gitlab.com/workmail.bishwas</td>
   </tr>
 </table>
-<i align="right">(Always keep it simple)</i>
+
+<i align="right">Always keep it simple 😉</i>
 
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)](https://visitcount.itsvg.in)
 
