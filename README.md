@@ -1,5 +1,4 @@
 <h3> Hi 👋, I'm Bishwas Shrestha</h3>
-<i align="right">(Always keep it simple)</i>
 <hr>
 <table>
   <h4 align="left">💫 About Me</h4><br>
@@ -105,6 +104,7 @@ main();
     <td>https://gitlab.com/workmail.bishwas</td>
   </tr>
 </table>
+<i align="right">(Always keep it simple)</i>
 
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)](https://visitcount.itsvg.in)
 
