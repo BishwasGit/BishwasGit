@@ -1,5 +1,5 @@
 <h3> Hi 👋, I'm Bishwas Shrestha</h3>
-<i>Always keep it simple</i>
+<i align="right">(Always keep it simple)</i>
 <hr>
 <table>
   <h4 align="left">💫 About Me</h4><br>
