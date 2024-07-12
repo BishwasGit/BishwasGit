@@ -110,6 +110,8 @@ main();
 
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)](https://visitcount.itsvg.in)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
