@@ -86,7 +86,7 @@ main();
   </tr>
   <tr>
     <th>Waka time</th>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=merko"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=cobalt"></td>
   </tr>
   <tr>
     <th>Total Time Spent Coding Since 2024</th>
@@ -112,15 +112,7 @@ main();
 
 ## WakaTime Stats
 
-![BishwasShrestha's WakaTime Stats - Dark Theme](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=dark)
-![BishwasShrestha's WakaTime Stats - Radical Theme](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=radical)
-![BishwasShrestha's WakaTime Stats - Gruvbox Theme](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=gruvbox)
-![BishwasShrestha's WakaTime Stats - Tokyo Night Theme](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=tokyonight)
-![BishwasShrestha's WakaTime Stats - One Dark Theme](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=onedark)
-![BishwasShrestha's WakaTime Stats - Cobalt Theme](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=cobalt)
-![BishwasShrestha's WakaTime Stats - Synthwave Theme](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=synthwave)
-![BishwasShrestha's WakaTime Stats - High Contrast Theme](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=highcontrast)
-![BishwasShrestha's WakaTime Stats - Dracula Theme](https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=dracula)
+
 
 
 
