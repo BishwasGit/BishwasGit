@@ -103,7 +103,7 @@ main();
   <tr>
     <th>Discord</th>
     <td><img src="https://img.shields.io/discord/765267823252996096"><br>
-    <iframe src="https://discord.com/widget?id=765267823252996096&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+    <img src="https://discord.com/widget?id=765267823252996096&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
     </td>
   </tr>
   <tr>
