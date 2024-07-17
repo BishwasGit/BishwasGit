@@ -102,7 +102,7 @@ main();
   </tr>
   <tr>
     <th>Discord</th>
-    <td>https://img.shields.io/discord/765267823252996096</td>
+    <td><img src="https://img.shields.io/discord/765267823252996096"></td>
   </tr>
   <tr>
     <th>Gitlab</th>
