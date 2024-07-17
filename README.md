@@ -101,6 +101,10 @@ main();
     <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></td>
   </tr>
   <tr>
+    <th>Discord</th>
+    <td>https://img.shields.io/discord/765267823252996096</td>
+  </tr>
+  <tr>
     <th>Gitlab</th>
     <td>https://gitlab.com/workmail.bishwas</td>
   </tr>
