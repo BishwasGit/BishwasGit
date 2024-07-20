@@ -18,7 +18,7 @@
   </tr>
 </table>
 <hr>
-<img align="right" width="300" src="https://media1.tenor.com/m/6OdlF1j_EDIAAAAC/dark-brandon.gif" />
+<img align="right" width="300" src="ezgif.com-video-to-gif-converter.gif" />
 
 ```javascript
 function action(activity) {
@@ -118,7 +118,6 @@ main();
 
 <img src="https://raw.githubusercontent.com/BishwasGit/BishwasGit/output/snake.svg" alt="Snake animation" />
 
-<img src="ezgif.com-video-to-gif-converter.gif"/>
 
 
 
