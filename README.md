@@ -1,13 +1,16 @@
 <hr>
 <table>
 <tr>
- <td colspan="2">
+ <td>
  ██╗  ██╗███████╗██╗     ██╗      ██████╗
  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
  ███████║█████╗  ██║     ██║     ██║   ██║
  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
+ </td>
+ <td>
+   <td colspan="2"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600"></td>
  </td>
 </tr>
   <tr>
@@ -83,9 +86,6 @@ main();
 <h4>Programming languages analytics</h4>
 
 <table>
-  <tr>
-    <td colspan="2"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600"></td>
-  </tr>
   <tr>
     <th>Most Used Langs</th>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight"></td>
