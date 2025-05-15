@@ -3,8 +3,7 @@
  <td colspan="2"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" min-width="800"></td>
 </tr>
   <tr>
-   <th>
-     <div style="text-align:right;">
+   <th align="right">
        👋 Hello, I’m <strong>Bishwas Shrestha</strong><br>
        🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
        👯 I’m looking to collaborate on MERN, Laravel, Wordpress, Custom APIs<br>
@@ -13,7 +12,6 @@
        ⚡ Fun fact: The First Computer Mouse was Made of Wood<br>
        🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">bishwas-shrestha.com.np</a> / workmail.bishwas@gmail.com<br>
        🇳🇵
-      </div>
    </th>
     <th>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNsaDJtdjR1d2Uza3pmdW1uMzN6c3kxNWNjN2xvdnAzY2kydHNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDPxorBbvpB1Pby/giphy.gif">
@@ -113,8 +111,6 @@ main();
     <td>https://gitlab.com/workmail.bishwas</td>
   </tr>
 </table>
-
-<i align="right">Keep it simple </i>😉
 
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)](https://visitcount.itsvg.in)
 
