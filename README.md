@@ -1,7 +1,4 @@
 <table>
-<tr>
-<td colspan="2"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdwOHdicHg0czh0ZjJpOXM0bmxwamJuMWNiYW1sa3k5Ymx0ZmMwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ko7twHhomhk8E/giphy.gif" min-width="1000"></td>
-</tr>
   <tr>
    <th align="right">
        👋 Hello, I’m <strong>Bishwas Shrestha</strong><br>
