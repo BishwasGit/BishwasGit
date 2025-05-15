@@ -3,15 +3,15 @@
  <td colspan="2"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" min-width="800"></td>
 </tr>
   <tr>
-    <th style="text-align:left;">
-            <p>🔭 I’m currently working as both Front-end and Back-end Web Developer</p>
-            <p>👯 I’m looking to collaborate on MERN, Laravel, Wordpress, Custom APIs</p>
-            <p>🌱 I’m currently learning Vite and CICD</p>
-            <p>💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs</p>
-            <p>⚡ Fun fact: The First Computer Mouse was Made of Wood</p>
-            <p>🌐 https://www.bishwas-shrestha.com.np / workmail.bishwas@gmail.com</p>
-            <p>🇳🇵</p>
-    </th>
+   <th style="text-align: left; vertical-align: top;">
+       🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
+       👯 I’m looking to collaborate on MERN, Laravel, Wordpress, Custom APIs<br>
+       🌱 I’m currently learning Vite and CICD<br>
+       💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs<br>
+       ⚡ Fun fact: The First Computer Mouse was Made of Wood<br>
+       🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">bishwas-shrestha.com.np</a> / workmail.bishwas@gmail.com<br>
+       🇳🇵
+   </th>
     <th>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNsaDJtdjR1d2Uza3pmdW1uMzN6c3kxNWNjN2xvdnAzY2kydHNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDPxorBbvpB1Pby/giphy.gif">
     </th>
