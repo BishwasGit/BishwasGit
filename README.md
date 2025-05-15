@@ -74,11 +74,11 @@ main();
 
 <table>
   <tr>
-    <th>Most Used Langs</th>
+    <th>Most Used Languages</th>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight"></td>
   </tr>
   <tr>
-    <th>Github Stats</th>
+    <th>Github Stats 🥇</th>
     <td><img src="https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true"></td>
   </tr>
   <tr>
@@ -86,11 +86,11 @@ main();
     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=cobalt"></td>
   </tr>
   <tr>
-    <th>Total Time Spent Coding Since 2024</th>
+    <th>Tracking Since 2024 ⏲️</th>
     <td><img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg"></td>
   </tr>
   <tr>
-    <th>Quote of the day</th>
+    <th>Quote of the day 🌅</th>
     <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></td>
   </tr>
   <tr>
