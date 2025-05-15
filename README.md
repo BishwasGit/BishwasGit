@@ -3,7 +3,7 @@
  <td colspan="2"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" min-width="800"></td>
 </tr>
   <tr>
-    <th colspan="2" style="text-align: center; font-size: 4em; padding: 20px;">
+    <th colspan="2" style="text-align: center; font-size: 14px; padding: 20px;">
       👋 Hello, I’m <strong>Bishwas Shrestha</strong>
     </th>
   </tr>
