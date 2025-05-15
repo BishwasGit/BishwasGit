@@ -6,7 +6,7 @@
    <th style="text-align: left; vertical-align: top;">
        🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
        👯 I’m looking to collaborate on MERN, Laravel, Wordpress, Custom APIs<br>
-       🌱 I’m currently learning Vite with React and Vue and CICD<br>
+       🌱 I’m currently learning Vite with React/Vue and CICD<br>
        💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs<br>
        ⚡ Fun fact: The First Computer Mouse was Made of Wood<br>
        🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">bishwas-shrestha.com.np</a> / workmail.bishwas@gmail.com<br>
