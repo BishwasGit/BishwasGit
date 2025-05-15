@@ -4,7 +4,7 @@
 </tr>
   <tr>
    <th>
-    
+     <div style="text-align:right;">
        👋 Hello, I’m <strong>Bishwas Shrestha</strong><br>
        🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
        👯 I’m looking to collaborate on MERN, Laravel, Wordpress, Custom APIs<br>
@@ -13,6 +13,7 @@
        ⚡ Fun fact: The First Computer Mouse was Made of Wood<br>
        🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">bishwas-shrestha.com.np</a> / workmail.bishwas@gmail.com<br>
        🇳🇵
+      </div>
    </th>
     <th>
       <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNsaDJtdjR1d2Uza3pmdW1uMzN6c3kxNWNjN2xvdnAzY2kydHNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDPxorBbvpB1Pby/giphy.gif">
