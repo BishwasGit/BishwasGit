@@ -69,6 +69,8 @@ main();
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![DOCKER](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=docker&logoColor=blue)
+![GITLAB](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=gitlab&logoColor=orange)
 <hr>
 <h4>Programming languages analytics</h4>
 
