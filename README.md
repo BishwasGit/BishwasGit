@@ -108,6 +108,8 @@ main();
   </tr>
 </table>
 
+{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/BishwasGit/BishwasGit/output/snake.svg" alt="Snake animation" />
