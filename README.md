@@ -89,7 +89,7 @@ main();
     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=cobalt"></td>
   </tr>
   <tr>
-    <th>Tracking Since 2024 ⏲️</th>
+    <th>Tracking 2024  - June 2025 ⏲️</th>
     <td><img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg"></td>
   </tr>
   <tr>
