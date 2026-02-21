@@ -78,7 +78,7 @@ main();
 ![Languages](https://skillicons.dev/icons?i=php,js)
 
 #### 🎨 Front-End Development
-![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,mui,photostop,canva,flutter)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,mui,flutter,adobe,canva)
 
 #### ⚙️ Back-End Development
 ![Backend](https://skillicons.dev/icons?i=laravel,nodejs,express,python)
