@@ -78,10 +78,10 @@ main();
 ![Languages](https://skillicons.dev/icons?i=php,js)
 
 #### 🎨 Front-End Development
-![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,mui,photostop,canva)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,mui,photostop,canva,flutter)
 
 #### ⚙️ Back-End Development
-![Backend](https://skillicons.dev/icons?i=laravel,nodejs,express)
+![Backend](https://skillicons.dev/icons?i=laravel,nodejs,express,python)
 
 #### 🛢️ Database Management
 ![Database](https://skillicons.dev/icons?i=mysql,mongodb)
