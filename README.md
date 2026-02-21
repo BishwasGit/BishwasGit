@@ -76,7 +76,7 @@ main();
 <h4>Programming languages analytics</h4>
 
 <table>
-  <tr>
+  <!-- <tr>
     <th>Most Used Languages</th>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight"></td>
   </tr>
@@ -91,7 +91,7 @@ main();
   <tr>
     <th>Tracking 2024  - June 2025 ⏲️</th>
     <td><img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg"></td>
-  </tr>
+  </tr> -->
   <tr>
     <th>Quote of the day 🌅</th>
     <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></td>
@@ -109,6 +109,7 @@ main();
 </table>
 
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=bishwasgit&color=blueviolet)
 
 <img src="https://raw.githubusercontent.com/BishwasGit/BishwasGit/output/snake.svg" alt="Snake animation" />
 
