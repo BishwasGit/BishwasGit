@@ -94,7 +94,7 @@ main();
 
 <hr>
 
-<h4>Programming languages analytics</h4>
+<h4>Others</h4>
 
 <table>
   <!-- <tr>
