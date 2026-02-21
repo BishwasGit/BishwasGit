@@ -73,6 +73,29 @@ main();
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 <hr>
+
+### 🚀 Technical Skills
+
+#### 💻 Programming Languages
+![Languages](https://skillicons.dev/icons?i=php,js)
+
+#### 🎨 Front-End Development
+![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)
+
+#### ⚙️ Back-End Development
+![Backend](https://skillicons.dev/icons?i=laravel,nodejs,express)
+
+#### 🛢️ Database Management
+![Database](https://skillicons.dev/icons?i=mysql)
+
+#### 🐳 Server & DevOps
+![DevOps](https://skillicons.dev/icons?i=docker,linux)
+
+#### 🔧 Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,postman)
+
+<hr>
+
 <h4>Programming languages analytics</h4>
 
 <table>
