@@ -94,17 +94,17 @@ main();
 <table style="width:100%; border:none;">
   <tr style="border:none;">
     
-    <td valign="top" style="border:none; padding:10px;">
+  <td valign="top" style="border:none; padding:10px;">
       <b>💻 Programming Languages</b><br><br>
       <img src="https://skillicons.dev/icons?i=php,js" />
     </td>
 
-    <td valign="top" style="border:none; padding:10px;">
+  <td valign="top" style="border:none; padding:10px;">
       <b>🎨 Front-End Development</b><br><br>
       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,mui,flutter,ps,ai,canva" />
     </td>
 
-    <td valign="top" style="border:none; padding:10px;">
+  <td valign="top" style="border:none; padding:10px;">
       <b>⚙️ Back-End Development</b><br><br>
       <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,python" />
     </td>
@@ -113,17 +113,17 @@ main();
 
   <tr style="border:none;">
 
-    <td valign="top" style="border:none; padding:10px;">
+  <td valign="top" style="border:none; padding:10px;">
       <b>🛢️ Database Management</b><br><br>
       <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
     </td>
 
-    <td valign="top" style="border:none; padding:10px;">
+  <td valign="top" style="border:none; padding:10px;">
       <b>🐳 Server & DevOps</b><br><br>
       <img src="https://skillicons.dev/icons?i=docker,linux" />
     </td>
 
-    <td valign="top" style="border:none; padding:10px;">
+  <td valign="top" style="border:none; padding:10px;">
       <b>🔧 Tools & Platforms</b><br><br>
       <img src="https://skillicons.dev/icons?i=git,github,postman" />
     </td>
