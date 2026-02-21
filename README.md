@@ -88,10 +88,10 @@ main();
     <th>Waka time</th>
     <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=cobalt"></td>
   </tr>
-  <tr>
+  <tr> -->
     <th>Tracking 2024  - June 2025 ⏲️</th>
     <td><img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg"></td>
-  </tr> -->
+  </tr>
   <tr>
     <th>Quote of the day 🌅</th>
     <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></td>
@@ -99,7 +99,7 @@ main();
   <tr>
     <th>Discord</th>
     <td><img src="https://img.shields.io/discord/765267823252996096"><br>
-      Join : https://discord.gg/6JQXnZhX
+       https://discord.gg/6JQXnZhX
     </td>
   </tr>
   <tr>
