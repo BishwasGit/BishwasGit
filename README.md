@@ -91,25 +91,45 @@ main();
 
 <hr>
 
-### 🚀 Technical Skills
+<table style="width:100%; border:none;">
+  <tr style="border:none;">
+    
+    <td valign="top" style="border:none; padding:10px;">
+      <b>💻 Programming Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=php,js" />
+    </td>
 
-#### 💻 Programming Languages
-![Languages](https://skillicons.dev/icons?i=php,js)
+    <td valign="top" style="border:none; padding:10px;">
+      <b>🎨 Front-End Development</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,mui,flutter,ps,ai,canva" />
+    </td>
 
-#### 🎨 Front-End Development
-![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,mui,flutter,adobe,canva)
+    <td valign="top" style="border:none; padding:10px;">
+      <b>⚙️ Back-End Development</b><br><br>
+      <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,python" />
+    </td>
 
-#### ⚙️ Back-End Development
-![Backend](https://skillicons.dev/icons?i=laravel,nodejs,express,python)
+  </tr>
 
-#### 🛢️ Database Management
-![Database](https://skillicons.dev/icons?i=mysql,mongodb)
+  <tr style="border:none;">
 
-#### 🐳 Server & DevOps
-![DevOps](https://skillicons.dev/icons?i=docker,linux)
+    <td valign="top" style="border:none; padding:10px;">
+      <b>🛢️ Database Management</b><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+    </td>
 
-#### 🔧 Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,postman)
+    <td valign="top" style="border:none; padding:10px;">
+      <b>🐳 Server & DevOps</b><br><br>
+      <img src="https://skillicons.dev/icons?i=docker,linux" />
+    </td>
+
+    <td valign="top" style="border:none; padding:10px;">
+      <b>🔧 Tools & Platforms</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,postman" />
+    </td>
+
+  </tr>
+</table>
 
 <hr>
 
