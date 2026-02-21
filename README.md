@@ -96,17 +96,17 @@ main();
     
   <td valign="top" style="border:none; padding:10px;">
       <b>💻 Programming Languages</b><br><br>
-      <img src="https://skillicons.dev/icons?i=php,js" />
+      <img src="https://skillicons.dev/icons?i=php,js,ts" />
     </td>
 
   <td valign="top" style="border:none; padding:10px;">
       <b>🎨 Front-End Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,mui,flutter,ps,ai,canva" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery,vite,figma,mui,flutter,ps,ai,canva" />
     </td>
 
   <td valign="top" style="border:none; padding:10px;">
       <b>⚙️ Back-End Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,python" />
+      <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,python" />
     </td>
 
   </tr>
@@ -120,12 +120,12 @@ main();
 
   <td valign="top" style="border:none; padding:10px;">
       <b>🐳 Server & DevOps</b><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,linux" />
+      <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu" />
     </td>
 
   <td valign="top" style="border:none; padding:10px;">
       <b>🔧 Tools & Platforms</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,postman" />
+      <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,notion,slack" />
     </td>
 
   </tr>
