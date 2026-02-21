@@ -45,7 +45,7 @@ main();
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bishwasshrestha)
 <hr>
-<h4>💻 Tech Stats</h4>
+<!-- <h4>💻 Tech Stats</h4>
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -70,7 +70,30 @@ main();
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) -->
+
+### 🛠 Server & Deployment Expertise
+- Docker Containerization  
+- Linux Virtual Machines  
+- cPanel & SSH Management  
+- REST API Integration  
+- Server-side Deployment  
+- Network Configuration  
+- AJAX-based Dynamic Systems
+
+### 🌐 Web Development
+- Full-stack Web Application Development  
+- MVC Architecture (Laravel)  
+- Express-based API Servers  
+- Authentication Systems  
+- CRUD Automation Dashboards
+
+### 🗂 Collaboration & Productivity
+- Google Sheets  
+- Microsoft Excel  
+- MS Word  
+- Slack  
+- Discord  
 
 <hr>
 
@@ -80,13 +103,13 @@ main();
 ![Languages](https://skillicons.dev/icons?i=php,js)
 
 #### 🎨 Front-End Development
-![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,mui,photostop,canva)
 
 #### ⚙️ Back-End Development
 ![Backend](https://skillicons.dev/icons?i=laravel,nodejs,express)
 
 #### 🛢️ Database Management
-![Database](https://skillicons.dev/icons?i=mysql)
+![Database](https://skillicons.dev/icons?i=mysql,mongodb)
 
 #### 🐳 Server & DevOps
 ![DevOps](https://skillicons.dev/icons?i=docker,linux)
