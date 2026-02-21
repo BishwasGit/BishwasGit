@@ -47,28 +47,47 @@ main();
 
 <hr>
 
-### 🛠 Server & Deployment Expertise
-  - Docker Containerization  
-  - Linux Virtual Machines  
-  - cPanel & SSH Management  
-  - REST API Integration  
-  - Server-side Deployment  
-  - Network Configuration  
-  - AJAX-based Dynamic Systems
+<table style="width:100%; border:none;">
+  <tr style="border:none;">
+    <td valign="top" style="border:none; padding:10px;">
 
-### 🌐 Web Development
-  - Full-stack Web Application Development  
-  - MVC Architecture (Laravel)  
-  - Express-based API Servers  
-  - Authentication Systems  
-  - CRUD Automation Dashboards
+<b>🛠 Server & Deployment Expertise</b>
 
-### 🗂 Collaboration & Productivity
-  - Google Sheets  
-  - Microsoft Excel  
-  - MS Word  
-  - Slack  
-  - Discord  
+- Docker Containerization  
+- Linux Virtual Machines  
+- cPanel & SSH Management  
+- REST API Integration  
+- Server-side Deployment  
+- Network Configuration  
+- AJAX-based Dynamic Systems  
+
+    </td>
+
+    <td valign="top" style="border:none; padding:10px;">
+
+<b>🌐 Web Development</b>
+
+- Full-stack Web Application Development  
+- MVC Architecture (Laravel)  
+- Express-based API Servers  
+- Authentication Systems  
+- CRUD Automation Dashboards  
+
+    </td>
+
+    <td valign="top" style="border:none; padding:10px;">
+
+<b>🗂 Collaboration & Productivity</b>
+
+- Google Sheets  
+- Microsoft Excel  
+- MS Word  
+- Slack  
+- Discord  
+
+    </td>
+  </tr>
+</table>
 
 <hr>
 
