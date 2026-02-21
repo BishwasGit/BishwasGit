@@ -115,7 +115,7 @@ main();
 
   <td valign="top" style="border:none; padding:10px;">
       <b>🛢️ Database Management</b><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
     </td>
 
   <td valign="top" style="border:none; padding:10px;">
