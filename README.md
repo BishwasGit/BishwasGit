@@ -132,17 +132,8 @@ main();
 </table>
 
 <hr>
-
 <table>
-   <tr>
-   <th>Top Langs</th>
-    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishwasgit&stats_format=bytes)</td>
-  </tr>
   <tr>
-    <th>Most Used Languages</th>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight"></td>
-  </tr>
- <tr>
     <th>Most Used Languages</th>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight"></td>
   </tr>
