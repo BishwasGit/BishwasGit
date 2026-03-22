@@ -135,6 +135,8 @@ main();
 
 <h4>Others</h4>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishwasgit&stats_format=bytes)
+
 <table>
   <!-- <tr>
     <th>Most Used Languages</th>
