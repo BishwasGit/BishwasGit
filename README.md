@@ -15,6 +15,9 @@
     </th>
   </tr>
 </table>
+
+![Dev Persona Card](https://bishwas-github-readme-stats.vercel.app/api/dev-persona?username=BishwasGit)
+
 <hr>
 
 ```javascript
