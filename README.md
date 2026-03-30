@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-![Dev Persona Card](https://bishwas-github-readme-stats.vercel.app/api/dev-persona?username=BishwasGit)
+
 
 <hr>
 
@@ -42,6 +42,8 @@ function main() {
 main();
 
 ```
+![Dev Persona Card](https://bishwas-github-readme-stats.vercel.app/api/dev-persona?username=BishwasGit)
+
 <hr>
 <h4>🌐 Socials</h4>  
 
