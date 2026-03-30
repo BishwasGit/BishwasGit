@@ -11,16 +11,10 @@
        🇳🇵
    </th>
     <th>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNsaDJtdjR1d2Uza3pmdW1uMzN6c3kxNWNjN2xvdnAzY2kydHNibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7qDPxorBbvpB1Pby/giphy.gif">
-    </th>
-    <th>
       <img src="https://bishwas-github-readme-stats.vercel.app/api/dev-persona?username=BishwasGit" />
     </th>
   </tr>
 </table>
-
-![Dev Persona Card](https://bishwas-github-readme-stats.vercel.app/api/dev-persona?username=BishwasGit)
-
 
 <hr>
 
@@ -170,6 +164,10 @@ main();
   <tr>
     <th>Gitlab</th>
     <td>https://gitlab.com/workmail.bishwas</td>
+  </tr>
+  <tr>
+    <th>Custom Card</th>
+    <td><img src="https://bishwas-github-readme-stats.vercel.app/api/dev-persona?username=BishwasGit"></td>
   </tr>
 </table>
 
