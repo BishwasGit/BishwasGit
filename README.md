@@ -11,7 +11,7 @@
        🇳🇵
    </th>
     <th>
-      <img src="https://bishwas-github-readme-stats.vercel.app/api/dev-persona?username=BishwasGit" />
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2E3aXRlajVjNzBza2gyczUzc2JoeGR3OHJwbjlzdWgxd3ZkbnY1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3oolsAVoKZualhcep/giphy.gif" />
     </th>
   </tr>
 </table>
