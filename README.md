@@ -165,12 +165,9 @@ main();
     <th>Gitlab</th>
     <td>https://gitlab.com/workmail.bishwas</td>
   </tr>
-  <tr>
-    <th>Custom Card</th>
-    <td><img src="https://bishwas-github-readme-stats.vercel.app/api/dev-persona?username=BishwasGit"></td>
-  </tr>
 </table>
 
+[![](https://bishwas-github-readme-stats.vercel.app/api/dev-persona?username=BishwasGit)
 [![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)](https://visitcount.itsvg.in)
 ![](https://komarev.com/ghpvc/?username=bishwasgit&color=blueviolet)
 [![Bishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishwasgit&theme=github-compact)](https://bishwas-shrestha.com.np)
