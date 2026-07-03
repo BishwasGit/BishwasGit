@@ -11,7 +11,7 @@
        🇳🇵
    </th>
     <th>
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2E3aXRlajVjNzBza2gyczUzc2JoeGR3OHJwbjlzdWgxd3ZkbnY1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3oolsAVoKZualhcep/giphy.gif" />
+      <img width="780" height="1185" alt="image" src="https://github.com/user-attachments/assets/e7ca308f-73a4-4d6e-8c82-3e529e695009" />
     </th>
   </tr>
 </table>
