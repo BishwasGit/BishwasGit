@@ -11,7 +11,7 @@
        🇳🇵
    </th>
     <th>
-      <img width="780" height="1185" alt="image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuaTEyZG05cmdyYzZibDMzaTlsanIzanRzcDBnaDdraG9manc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" />
+      <img width="400" height="400" alt="image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuaTEyZG05cmdyYzZibDMzaTlsanIzanRzcDBnaDdraG9manc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" />
     </th>
   </tr>
 </table>
