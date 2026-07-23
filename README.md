@@ -169,7 +169,7 @@ main();
 </table>
 
 ![](https://bishwas-github-readme-stats.vercel.app/api/dev-persona?username=BishwasGit)
-![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)
 ![](https://komarev.com/ghpvc/?username=bishwasgit&color=blueviolet)
 ![Bishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishwasgit&theme=github-compact)](https://bishwas-shrestha.com.np)
 <img src="https://raw.githubusercontent.com/BishwasGit/BishwasGit/output/snake.svg" alt="Snake animation" />
