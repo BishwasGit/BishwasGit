@@ -131,7 +131,6 @@ Sharpening the build tooling side: Vite-based React/Vue workflows and CI/CD pipe
 </td>
 <td width="50%">
 
-**Time spent coding**
 <img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg" />
 
 </td>
