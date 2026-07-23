@@ -1,183 +1,162 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171310,100:D6394C&height=220&section=header&text=Bishwas%20Shrestha&fontSize=46&fontColor=F1EDE4&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%C2%B7%20Kathmandu%2C%20Nepal&descAlignY=56&descSize=18&descColor=C9A15C" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1200&color=D6394C&center=true&vCenter=true&width=460&lines=action('learn');+action('code');+action('eat');+action('sleep');+while+(alive)+%7B+...+%7D" alt="Typing SVG" />
+
+</div>
+
+<br>
+
 <table>
-  <tr>
-   <th align="right">
-       👋 Hello, I’m <strong>Bishwas Shrestha</strong><br>
-       🔭 I’m currently working as both Front-end and Back-end Web Developer<br>
-       👯 I’m looking to collaborate on MERN, Laravel, Wordpress, Custom APIs<br>
-       🌱 I’m currently learning Vite with React/Vue and CICD<br>
-       💬 Ask me about Web Development, Web Application, Web Designing, Responsive Designs<br>
-       ⚡ Fun fact: The First Computer Mouse was Made of Wood<br>
-       🌐 <a href="https://www.bishwas-shrestha.com.np" target="_blank">bishwas-shrestha.com.np</a> / workmail.bishwas@gmail.com<br>
-       🇳🇵
-   </th>
-    <th>
-      <img width="400" height="400" alt="image" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuaTEyZG05cmdyYzZibDMzaTlsanIzanRzcDBnaDdraG9manc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" />
-    </th>
-  </tr>
+<tr>
+<td width="60%" valign="top">
+
+### 👋 Hey, I'm Bishwas
+
+🔭 Currently working as both **Front-end** and **Back-end** Web Developer at **O2D — On Demand Development**
+👯 Looking to collaborate on **MERN · Laravel · WordPress · Custom APIs**
+🌱 Currently learning **Vite with React/Vue** and **CI/CD**
+💬 Ask me about Web Development, Web Applications, Web Design, Responsive Design
+⚡ Fun fact: the first computer mouse was made of wood
+🌐 [bishwas-shrestha.com.np](https://www.bishwas-shrestha.com.np) · workmail.bishwas@gmail.com
+🇳🇵 Based in Kathmandu, Nepal
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img width="320" alt="coding gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuaTEyZG05cmdyYzZibDMzaTlsanIzanRzcDBnaDdraG9manc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" />
+
+</td>
+</tr>
 </table>
 
-<hr>
+<div align="center">
 
-```javascript
-function action(activity) {
-    console.log('Performing action:', activity);
-}
-function main() {
-    const name = 'Bishwas Shrestha';
-    var acknowledgements = 'Web Developer';
-    var location = 'Kathmandu, Nepal';
-    var company = 'O2D - On Demand Development';
-    var routine = ['learn', 'code', 'eat', 'sleep'];
-    const alive = true;
+[![Facebook](https://img.shields.io/badge/Facebook-171310?style=for-the-badge&logo=Facebook&logoColor=D6394C)](https://facebook.com/RR4V3N)
+[![Instagram](https://img.shields.io/badge/Instagram-171310?style=for-the-badge&logo=Instagram&logoColor=D6394C)](https://instagram.com/_bishwasshrestha)
+[![Gmail](https://img.shields.io/badge/Gmail-171310?style=for-the-badge&logo=gmail&logoColor=D6394C)](mailto:contact@bishwas-shrestha.com.np)
+[![Discord](https://img.shields.io/badge/Discord-171310?style=for-the-badge&logo=discord&logoColor=D6394C)](https://discord.gg/6JQXnZhX)
+[![GitLab](https://img.shields.io/badge/GitLab-171310?style=for-the-badge&logo=gitlab&logoColor=D6394C)](https://gitlab.com/workmail.bishwas)
 
-    while (alive) {
-        $.each(routine, function(index, activity) {
-            action(activity);
-            if (!alive) return "Time to rest";
-        });
-    }
-}
-main();
+</div>
 
-```
+<br>
 
-<hr>
-<h4>🌐 Socials</h4>  
+## 🛠 What I work with
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/RR4V3N)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_bishwasshrestha)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:contact@bishwas-shrestha.com.np)
+<details open>
+<summary><b>Languages &amp; Frontend</b> — PHP · JS/TS · React · Vue · Design tooling</summary>
+<br>
 
-<hr>
+Core languages plus everything that ends up in the browser — component frameworks, styling, and design tooling for turning a mockup into a working UI.
 
-<table style="width:100%; border:none;">
-  <tr style="border:none;">
-    <td valign="top" style="border:none; padding:10px;">
+<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,bootstrap,react,jquery,vite,figma,mui,ps,ai,canva" />
 
-<b>🛠 Server & Deployment Expertise</b>
+</details>
 
-- Docker Containerization  
-- Linux Virtual Machines  
-- cPanel & SSH Management  
-- REST API Integration  
-- Server-side Deployment  
-- Network Configuration  
-- AJAX-based Dynamic Systems  
+<details>
+<summary><b>Backend &amp; APIs</b> — Laravel · Node · Express · NestJS</summary>
+<br>
 
-    </td>
+MVC architecture, Express-based API servers, authentication systems, and CRUD automation dashboards — the logic behind the interface.
 
-    <td valign="top" style="border:none; padding:10px;">
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,python" />
 
-<b>🌐 Web Development</b>
+</details>
 
-- Full-stack Web Application Development  
-- MVC Architecture (Laravel)  
-- Express-based API Servers  
-- Authentication Systems  
-- CRUD Automation Dashboards  
+<details>
+<summary><b>Database &amp; Storage</b> — MySQL · MongoDB · PostgreSQL</summary>
+<br>
 
-    </td>
+Relational and document stores, picked per project rather than by default.
 
-    <td valign="top" style="border:none; padding:10px;">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
-<b>🗂 Collaboration & Productivity</b>
+</details>
 
-- Google Sheets  
-- Microsoft Excel  
-- MS Word  
-- Slack  
-- Discord  
+<details>
+<summary><b>Server &amp; Deployment</b> — Docker · Linux · SSH · cPanel</summary>
+<br>
 
-    </td>
-  </tr>
-</table>
+Docker containerization, Linux VMs, cPanel &amp; SSH management, network configuration, and shipping code to servers that stay up.
 
-<hr>
+<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,gitlab,postman" />
 
-<table style="width:100%; border:none;">
-  <tr style="border:none;">
-    
-  <td valign="top" style="border:none; padding:10px;">
-      <b>💻 Programming Languages</b><br><br>
-      <img src="https://skillicons.dev/icons?i=php,js,ts" />
-    </td>
+</details>
 
-  <td valign="top" style="border:none; padding:10px;">
-      <b>🎨 Front-End Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,jquery,vite,figma,mui,flutter,ps,ai,canva" />
-    </td>
+<details>
+<summary><b>Collaboration &amp; Productivity</b> — Sheets · Excel · Word · Slack · Discord</summary>
+<br>
 
-  <td valign="top" style="border:none; padding:10px;">
-      <b>⚙️ Back-End Development</b><br><br>
-      <img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,python" />
-    </td>
+<img src="https://skillicons.dev/icons?i=notion,slack" />
 
-  </tr>
+</details>
 
-  <tr style="border:none;">
+<details>
+<summary><b>🌱 Currently learning</b> — Vite + React/Vue · CI/CD</summary>
+<br>
 
-  <td valign="top" style="border:none; padding:10px;">
-      <b>🛢️ Database Management</b><br><br>
-      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-    </td>
+Sharpening the build tooling side: Vite-based React/Vue workflows and CI/CD pipelines, so shipping gets faster without getting sloppier.
 
-  <td valign="top" style="border:none; padding:10px;">
-      <b>🐳 Server & DevOps</b><br><br>
-      <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu" />
-    </td>
+<img src="https://skillicons.dev/icons?i=vite,react,vue" />
 
-  <td valign="top" style="border:none; padding:10px;">
-      <b>🔧 Tools & Platforms</b><br><br>
-      <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,notion,slack" />
-    </td>
+</details>
 
-  </tr>
-</table>
+<br>
 
-<hr>
+## 📊 The numbers
+
 <table>
-  <tr>
-    <th>Most Used Languages</th>
-    <td><img src="https://bishwas-github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight"></td>
-  </tr>
-  <tr>
-    <th>Github Stats 🥇</th>
-    <td><img src="https://bishwas-github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true"></td>
-  </tr>
-  <tr>
-    <th>Waka time</th>
-    <td><img src="https://bishwas-github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=cobalt"></td>
-  </tr>
-  <tr> 
-    <th>Time Spent Coding</th>
-    <td><img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg"></td>
-  </tr>
-  <tr>
-    <th>Quote of the day 🌅</th>
-    <td><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"></td>
-  </tr>
-  <tr>
-    <th>Discord</th>
-    <td><img src="https://img.shields.io/discord/765267823252996096"><br>
-       https://discord.gg/6JQXnZhX
-    </td>
-  </tr>
-  <tr>
-    <th>Gitlab</th>
-    <td>https://gitlab.com/workmail.bishwas</td>
-  </tr>
+<tr>
+<td width="50%">
+
+**Most used languages**
+<img src="https://bishwas-github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight" />
+
+</td>
+<td width="50%">
+
+**GitHub stats**
+<img src="https://bishwas-github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true" />
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**WakaTime — weekly breakdown**
+<img src="https://bishwas-github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=cobalt" />
+
+</td>
+<td width="50%">
+
+**Time spent coding**
+<img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg" />
+
+</td>
+</tr>
 </table>
 
-![](https://bishwas-github-readme-stats.vercel.app/api/dev-persona?username=BishwasGit)
-![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)
-![](https://komarev.com/ghpvc/?username=bishwasgit&color=blueviolet)
-![Bishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishwasgit&theme=github-compact)a
-<img src="https://raw.githubusercontent.com/BishwasGit/BishwasGit/output/snake.svg" alt="Snake animation" />
+**Contribution activity**
+![Bishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishwasgit&theme=github-compact)
 
+<div align="center">
 
+**Quote of the day** 🌅
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
+</div>
 
+<br>
 
+<img src="https://raw.githubusercontent.com/BishwasGit/BishwasGit/output/snake.svg" alt="Snake animation" width="100%"/>
 
+<div align="center">
 
+![Visitors](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)
+![Profile views](https://komarev.com/ghpvc/?username=bishwasgit&color=blueviolet)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6394C,100:171310&height=100&section=footer" width="100%"/>
+
+</div>
