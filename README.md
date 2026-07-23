@@ -143,7 +143,7 @@ Sharpening the build tooling side: Vite-based React/Vue workflows and CI/CD pipe
 
 <div align="center">
 
-**Quote of the day** 🌅
+
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
