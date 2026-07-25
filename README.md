@@ -158,4 +158,7 @@ Sharpening the build tooling side: Vite-based React/Vue workflows and CI/CD pipe
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6394C,100:171310&height=100&section=footer" width="100%"/>
 
+
+<img src="./qr.png" width="100%"/>
+
 </div>
