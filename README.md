@@ -156,9 +156,11 @@ Sharpening the build tooling side: Vite-based React/Vue workflows and CI/CD pipe
 ![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)
 ![Profile views](https://komarev.com/ghpvc/?username=bishwasgit&color=blueviolet)
 
+<img src="./qr.png" width="50%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6394C,100:171310&height=100&section=footer" width="100%"/>
 
 
-<img src="./qr.png" width="100%"/>
+
 
 </div>
