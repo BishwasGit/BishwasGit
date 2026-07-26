@@ -118,7 +118,19 @@ Sharpening the build tooling side: Vite-based React/Vue workflows and CI/CD pipe
 <td width="50%">
 
 **GitHub stats**
- <img src="https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=tokyonight&hide=prs&count_private=true" alt="GitHub stats" />
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=tokyonight&hide=prs&count_private=true" alt="GitHub stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=BishwasGit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
 
 </td>
 </tr>
