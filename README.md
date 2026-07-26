@@ -117,7 +117,6 @@ Sharpening the build tooling side: Vite-based React/Vue workflows and CI/CD pipe
 </td>
 <td width="50%">
 
-**GitHub stats**
 ---
 
 ## 📈 GitHub Activity
