@@ -119,7 +119,7 @@ Sharpening the build tooling side: Vite-based React/Vue workflows and CI/CD pipe
 
 ---
 
-## 📈 GitHub Activity
+**Github Activity**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=tokyonight&hide=prs&count_private=true" alt="GitHub stats" />
