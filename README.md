@@ -118,7 +118,7 @@ Sharpening the build tooling side: Vite-based React/Vue workflows and CI/CD pipe
 <td width="50%">
 
 **GitHub stats**
-<img src="https://bishwas-github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=gruvbox&hide_rank=true" />
+ <img src="https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=tokyonight&hide=prs&count_private=true" alt="GitHub stats" />
 
 </td>
 </tr>
