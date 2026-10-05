@@ -1,177 +1,140 @@
-<div align="center">
+<!-- Upload this README and the assets/ folder to the root of BishwasGit/BishwasGit. -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171310,100:D6394C&height=220&section=header&text=Bishwas%20Shrestha&fontSize=46&fontColor=F1EDE4&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%C2%B7%20Kathmandu%2C%20Nepal&descAlignY=56&descSize=18&descColor=C9A15C" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1200&color=D6394C&center=true&vCenter=true&width=460&lines=action('learn');+action('code');+action('eat');+action('sleep');+while+(alive)+%7B+...+%7D" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-### 👋 Hey, I'm Bishwas
-
-🔭 Currently working as both **Front-end** and **Back-end** Web Developer at **O2D — On Demand Development**
-👯 Looking to collaborate on **MERN · Laravel · WordPress · Custom APIs**
-🌱 Currently learning **Vite with React/Vue** and **CI/CD**
-💬 Ask me about Web Development, Web Applications, Web Design, Responsive Design
-⚡ Fun fact: the first computer mouse was made of wood
-🌐 [bishwas-shrestha.com.np](https://www.bishwas-shrestha.com.np) · workmail.bishwas@gmail.com
-🇳🇵 Based in Kathmandu, Nepal
-
-</td>
-<td width="40%" valign="top" align="center">
-
-<img width="320" alt="coding gif" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3ZuaTEyZG05cmdyYzZibDMzaTlsanIzanRzcDBnaDdraG9manc3OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oYQ9HRm5Mo7VXeMNVR/giphy.gif" />
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-171310?style=for-the-badge&logo=Facebook&logoColor=D6394C)](https://facebook.com/RR4V3N)
-[![Instagram](https://img.shields.io/badge/Instagram-171310?style=for-the-badge&logo=Instagram&logoColor=D6394C)](https://instagram.com/_bishwasshrestha)
-[![Gmail](https://img.shields.io/badge/Gmail-171310?style=for-the-badge&logo=gmail&logoColor=D6394C)](mailto:contact@bishwas-shrestha.com.np)
-[![Discord](https://img.shields.io/badge/Discord-171310?style=for-the-badge&logo=discord&logoColor=D6394C)](https://discord.gg/6JQXnZhX)
-[![GitLab](https://img.shields.io/badge/GitLab-171310?style=for-the-badge&logo=gitlab&logoColor=D6394C)](https://gitlab.com/workmail.bishwas)
-
-</div>
-
-<br>
-
-## 🛠 What I work with
-
-<details open>
-<summary><b>Languages &amp; Frontend</b> — PHP · JS/TS · React · Vue · Design tooling</summary>
-<br>
-
-Core languages plus everything that ends up in the browser — component frameworks, styling, and design tooling for turning a mockup into a working UI.
-
-<img src="https://skillicons.dev/icons?i=php,js,ts,html,css,bootstrap,react,jquery,vite,figma,mui,ps,ai,canva" />
-
-</details>
-
-<details>
-<summary><b>Backend &amp; APIs</b> — Laravel · Node · Express · NestJS</summary>
-<br>
-
-MVC architecture, Express-based API servers, authentication systems, and CRUD automation dashboards — the logic behind the interface.
-
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,nestjs,python" />
-
-</details>
-
-<details>
-<summary><b>Database &amp; Storage</b> — MySQL · MongoDB · PostgreSQL</summary>
-<br>
-
-Relational and document stores, picked per project rather than by default.
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
-
-</details>
-
-<details>
-<summary><b>Server &amp; Deployment</b> — Docker · Linux · SSH · cPanel</summary>
-<br>
-
-Docker containerization, Linux VMs, cPanel &amp; SSH management, network configuration, and shipping code to servers that stay up.
-
-<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,git,github,gitlab,postman" />
-
-</details>
-
-<details>
-<summary><b>Collaboration &amp; Productivity</b> — Sheets · Excel · Word · Slack · Discord</summary>
-<br>
-
-<img src="https://skillicons.dev/icons?i=notion,slack" />
-
-</details>
-
-<details>
-<summary><b>🌱 Currently learning</b> — Vite + React/Vue · CI/CD</summary>
-<br>
-
-Sharpening the build tooling side: Vite-based React/Vue workflows and CI/CD pipelines, so shipping gets faster without getting sloppier.
-
-<img src="https://skillicons.dev/icons?i=vite,react,vue" />
-
-</details>
-
-<br>
-
-## 📊 The numbers
-
-<table>
-<tr>
-<td width="50%">
-
-**Most used languages**
-<img src="https://bishwas-github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=donut&theme=tokyonight" />
-
-</td>
-<td width="50%">
-
----
-
-**Github Activity**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Bishwas Shrestha. Thoughtful interfaces. Useful things. Full-stack developer in Kathmandu, Nepal." src="./assets/hero-light.svg" width="100%">
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BishwasGit&show_icons=true&theme=tokyonight&hide=prs&count_private=true" alt="GitHub stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=BishwasGit&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BishwasGit&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <a href="https://www.bishwas-shrestha.com.np"><b>Portfolio ↗</b></a> &nbsp; / &nbsp;
+  <a href="mailto:workmail.bishwas@gmail.com">Say hello</a> &nbsp; / &nbsp;
+  <a href="https://github.com/BishwasGit?tab=repositories">Explore my code</a>
 </p>
 
----
+## Hey, I'm Bishwas 👋
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+I build for the web, from the first screen to the API behind it. I work across **frontend and backend at O2D — On Demand Development**, with a soft spot for thoughtful interfaces, responsive design, and the small details that make an app feel good to use.
 
-**WakaTime — weekly breakdown**
-<img src="https://bishwas-github-readme-stats.vercel.app/api/wakatime?username=BishwasShrestha&layout=compact&theme=cobalt" />
+Based in **Kathmandu, Nepal**. Usually somewhere between a browser tab and a terminal.
 
-</td>
-<td width="50%">
+### 01 / On my desk
 
-<img src="https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg" />
+- **Building** → Web applications, custom APIs, and responsive interfaces.
+- **Learning** → Vite with React/Vue, plus CI/CD workflows.
+- **Up for** → Collaborating on MERN, Laravel, WordPress, and API projects.
 
-</td>
-</tr>
-</table>
+### 02 / A few things I've built
 
-**Contribution activity**
-![Bishwas's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bishwasgit&theme=github-compact)
+**[MCP Orchestrator ↗](https://github.com/BishwasGit/mcp-orchestrator)**  
+Describe a task in plain language; the platform matches and executes the right MCP tool.  
+<sub>TypeScript · NestJS · React / Vite · PostgreSQL</sub>
 
-<div align="center">
+**[Google Sheets MCP ↗](https://github.com/BishwasGit/google-sheets-mcp)**  
+A custom MCP server connecting Google Sheets to Claude on the web.  
+<sub>JavaScript · Google Sheets · MCP</sub>
 
+**[Buy / Sell Tickets ↗](https://github.com/BishwasGit/buy-sell-tickets)**  
+An event ticket marketplace with QR verification and Stripe integration.  
+<sub>JavaScript · Stripe · QR verification</sub>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<sub>[The rest of the workshop →](https://github.com/BishwasGit?tab=repositories)</sub>
 
-</div>
+### 03 / The toolkit
+
+**In the browser**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-frontend-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-frontend-light.svg">
+  <img src="./assets/stack-frontend-light.svg" alt="HTML, CSS, JavaScript, TypeScript, React, Vue, Vite, Bootstrap, Material UI, jQuery" height="48">
+</picture>
+
+<sub>HTML · CSS · JavaScript · TypeScript · React · Vue · Vite · Bootstrap · MUI · jQuery</sub>
+
+**Behind the scenes**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-backend-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-backend-light.svg">
+  <img src="./assets/stack-backend-light.svg" alt="PHP, Laravel, Node.js, Express, NestJS, WordPress, Python" height="48">
+</picture>
+
+<sub>PHP · Laravel · Node.js · Express · NestJS · WordPress · Python</sub>
+
+**Where the data lives**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-data-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-data-light.svg">
+  <img src="./assets/stack-data-light.svg" alt="MySQL, MongoDB, PostgreSQL" height="48">
+</picture>
+
+<sub>MySQL · MongoDB · PostgreSQL</sub>
+
+**From commit to deploy**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-delivery-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-delivery-light.svg">
+  <img src="./assets/stack-delivery-light.svg" alt="Docker, Linux, Ubuntu, Git, GitHub, GitLab, Postman" height="48">
+</picture>
+
+<sub>Docker · Linux · Ubuntu · Git · GitHub · GitLab · Postman</sub>
+
+**Design & the everyday**  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-design-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-design-light.svg">
+  <img src="./assets/stack-design-light.svg" alt="Figma, Photoshop, Illustrator, Notion, Discord" height="48">
+</picture>
+
+<sub>Figma · Photoshop · Illustrator · Notion · Discord</sub>
+
+<details>
+<summary>And a few tools around the edges</summary>
+
+Figma, Photoshop, Illustrator, and Canva for design. jQuery when the project calls for it. Ubuntu, SSH, and cPanel for server work. GitHub and GitLab for code; Notion and Slack for keeping things together.
+
+</details>
+
+### 04 / A little behind the scenes
+
+<details>
+<summary><b>Open the activity drawer ↗</b></summary>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/BishwasGit/BishwasGit/output/snake.svg" alt="Snake animation" width="100%"/>
+**Little by little**  
+[Recent contributions →](https://github.com/BishwasGit) · [Public repositories →](https://github.com/BishwasGit?tab=repositories)
 
-<div align="center">
+**Time at the keyboard**  
+[![WakaTime coding time](https://wakatime.com/badge/user/018dcfc4-699b-4c9c-bda7-76b8578f5dff.svg)](https://wakatime.com/@BishwasShrestha)
 
-![](https://visitcount.itsvg.in/api?id=BishwasGit&icon=0&color=8)
-![Profile views](https://komarev.com/ghpvc/?username=bishwasgit&color=blueviolet)
+</details>
 
-<img src="./qr.png" width="50%"/>
+<details>
+<summary>A tiny terminal Easter egg</summary>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6394C,100:171310&height=100&section=footer" width="100%"/>
+```text
+$ whoami
+bishwas / developer / curious human
 
+$ cat daily-loop.txt
+learn → build → improve → repeat
 
+$ echo "hello, visitor"
+thanks for stopping by. look around :)
+```
 
+</details>
 
-</div>
+### 05 / Let's make something useful
+
+Have a web app in mind, an API to connect, or a collaboration to explore? **[Drop me a line ↗](mailto:workmail.bishwas@gmail.com)**
+
+[Portfolio](https://www.bishwas-shrestha.com.np) · [LinkedIn](https://www.linkedin.com/in/justbishwas/) · [Instagram](https://instagram.com/_bishwasshrestha) · [GitLab](https://gitlab.com/workmail.bishwas)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg">
+  <img alt="Made with curiosity, in Kathmandu. See you in the next commit." src="./assets/footer-light.svg" width="100%">
+</picture>
